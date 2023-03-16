@@ -25,3 +25,12 @@
 #### Тема 8. *Модели и сигналы. Тестирование. Кастомизация settings*
 
 #### Тема 9. *NumPy, Pandas, Shell, virtualenv, git*
+
+### Resources:
+
+* https://docs.djangoproject.com/en/4.1/intro/tutorial01/
+* https://www.django-rest-framework.org/tutorial/quickstart/
+* https://blog.logrocket.com/using-react-django-create-app-tutorial/
+* https://www.youtube.com/watch?v=tYKRAXIio28&t=5542s&ab_channel=DennisIvy
+* https://getbootstrap.com/
+* https://react-bootstrap.github.io/
